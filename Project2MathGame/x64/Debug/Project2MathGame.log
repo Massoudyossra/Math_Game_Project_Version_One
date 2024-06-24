@@ -1,0 +1,3 @@
+﻿  Project2MathGame.cpp
+C:\Users\yosra\Desktop\Project2MathGame\Project2MathGame\Project2MathGame.cpp(165,1): warning C4715: 'GetComputerAnswer': not all control paths return a value
+  Project2MathGame.vcxproj -> C:\Users\yosra\Desktop\Project2MathGame\x64\Debug\Project2MathGame.exe
